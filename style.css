@@ -1,10 +1,19 @@
-:root{
+/* :root{
     --bcg-color: #001122;
     --primary-color: #155e75;
     --border-radius: 8px;
     --secondary-color: #fff;
     --border-color: #7fb7c9;
+} */
+:root{
+    --bcg-color:#ccd0d0 ;
+    --primary-color: #1a0968;
+    --border-radius: 8px;
+    --secondary-color: #fcfafa;
+    --border-color: #bf06060a;
 }
+
+
 *{
     margin: 0;
     padding: 0;
